@@ -1,0 +1,9 @@
+{
+    "semi": false,
+    "[javascript]": {
+        "tabWidth": 4
+    },
+    "[ruby]": {
+        "tabWidth": 2
+    }
+}
